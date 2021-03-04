@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace HomeWork2   //Лукьянов Владимир Сергеевич. Домашнее задание по Уроку №2
+namespace HomeWork2   //Лукьянов Владимир Сергеевич. Домашнее задание по Уроку №2 Изменения
 {
     class Program
     {
