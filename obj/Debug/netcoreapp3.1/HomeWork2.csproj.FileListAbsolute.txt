@@ -1,0 +1,13 @@
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.exe
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.deps.json
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.json
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.dev.json
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.dll
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.pdb
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csprojAssemblyReference.cache
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfoInputs.cache
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfo.cs
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csproj.CoreCompileInputs.cache
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.dll
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.pdb
+D:\GeekBrains Факультет разработки игр\Обучение\Подготовка\2. Знакомство с С#\Hello world\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.genruntimeconfig.cache
